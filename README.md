@@ -1,6 +1,8 @@
 # MachineLearningprojectphase3
 
 ![intro](images/https://github.com/winnycodegurl/MachineLearningprojectphase3/blob/main/telecoms%20image.jpg)
+![Uploading image.png…]()
+
 
 
 
