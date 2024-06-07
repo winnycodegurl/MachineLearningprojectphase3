@@ -1,6 +1,6 @@
 # MachineLearningprojectphase3
 
-![intro](images/telecoms image.jpg)
+![intro](images/https://github.com/winnycodegurl/MachineLearningprojectphase3/blob/main/telecoms%20image.jpg?raw=true)
 
 
 
