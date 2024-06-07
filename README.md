@@ -1,6 +1,7 @@
 # MachineLearningprojectphase3
 
-C:\Users\USER\Documents\MachineLearningprojectphase3\telecoms image.jpg
+![intro](images/telecoms image.jpg)
+
 
 
 # Overview:
