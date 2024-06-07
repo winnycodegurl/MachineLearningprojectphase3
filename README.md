@@ -68,9 +68,17 @@ KNN model:The KNN model was also used, providing additional insights into custom
 Models were evaluated based on the following metrics:
 
 Accuracy: The proportion of correctly classified instances.
+
+
 Precision: The proportion of true positive predictions among all positive predictions.
+
+
 Recall: The proportion of true positive predictions among all actual positives.
+
+
 F1 Score: The harmonic mean of precision and recall, providing a balance between the two.
+
+
 ROC curve comparison.
 
 # Recommedations.
