@@ -3,25 +3,32 @@
 C:\Users\USER\Documents\MachineLearningprojectphase3\telecoms image.jpg
 
 
-Overview:
+# Overview:
 
 
 Telecom companies face revenue losses from customer churn. Understanding churn factors is crucial for profitability. This project analyzes customer data to identify churn patterns, develop predictive models, and segment customers. The goal is to enhance service quality, customer satisfaction, and operational efficiency, aiding strategic decisions to boost performance and loyalty.
 
 
-Business Understanding
+# Business Understanding
+
+
 In this project, the primary objective is to predict customer churn for a telecommunications company. Customer churn refers to the scenario when customers stop using a company's services. By accurately predicting churn, the company can take proactive measures to retain customers, thereby reducing revenue loss and improving customer satisfaction.
 
 
 The key stakeholders for this project include:
 
 Marketing Team: Interested in identifying at-risk customers and designing targeted retention campaigns.
+
+
 Customer Service Team: Wants to understand the reasons behind churn and improve service quality.
+
 Product Development Team: Can use insights to enhance product features and offerings.
+
+
 Senior Management: Needs to make strategic decisions based on churn predictions to maximize profitability and growth.
 
 
-Data Used
+# Data Used
 The data set ws obtained from Syril Telecommunication company.
 The dataset used for this project is Churmdata.csv, which contains the following features:
 
@@ -48,7 +55,7 @@ Churn: Whether the customer churned (yes/no).
 
 
 
-Modeling Used
+# Modeling Used
 The following machine learning models were used to predict customer churn:
 
 Logistic Regression: A baseline model to establish a benchmark for other models.
@@ -57,7 +64,7 @@ Random Forest: An ensemble method that improves the performance and accuracy ove
 KNN model:The KNN model was also used, providing additional insights into customer behavior and further validating the model's effectiveness
 
 
-Model Evaluation
+# Model Evaluation
 Models were evaluated based on the following metrics:
 
 Accuracy: The proportion of correctly classified instances.
@@ -66,7 +73,7 @@ Recall: The proportion of true positive predictions among all actual positives.
 F1 Score: The harmonic mean of precision and recall, providing a balance between the two.
 ROC curve comparison.
 
-Recommedations.
+# Recommedations.
 
 Conduct Detailed Analyses:
 
